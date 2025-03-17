@@ -9,5 +9,9 @@ hello huhu !! hello git`
 hello huhu !! hello git`
 hello huhu !! hello git`
 hello huhu !! hello git`
+<<<<<<< HEAD
 hello huhu !! hello git master
-hello huhu !! hello git`
+=======
+hello huhu !! hello git 
+hello huhu !! hello git hot-test
+>>>>>>> hot-fix
